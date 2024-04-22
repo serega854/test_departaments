@@ -1,4 +1,15 @@
-![Миграция базы данных](https://github.com/serega854/test_departaments/blob/main/11.gif)
+# Тестовое задание
 
-тест
-![Работа программы](https://github.com/serega854/test_departaments/blob/main/11.gif)
+**Тестовое задание**
+
+**Создание миграции базы данных**
+
+Простой текст: Корневая ветка Заводоуправление создается по умолчанию. Её нельзя редактировать и изменять.
+
+![Миграция базы данных](https://github.com/serega854/test_departaments/blob/main/gifGit1.gif)
+
+**Работа программы**
+
+*Полужирный текст: работа программы*
+
+![Работа программы](https://github.com/serega854/test_departaments/blob/main/gifGit2.gif)
