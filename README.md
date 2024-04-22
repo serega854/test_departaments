@@ -8,6 +8,7 @@
 ![Миграция базы данных](https://github.com/serega854/test_departaments/blob/main/gifGit1.gif)
 
 **Работа программы**
+
 *Работа программы в виде гифки:*
 ![Работа программы](https://github.com/serega854/test_departaments/blob/main/gifGit2.gif)
 
