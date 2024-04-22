@@ -12,5 +12,5 @@
 ![Работа программы](https://github.com/serega854/test_departaments/blob/main/gifGit2.gif)
 
 **По результату работы программы создается файл с логами**
-![Логи]((https://github.com/serega854/test_departaments/blob/main/GitImg.PNG)
+![Логи](https://github.com/serega854/test_departaments/blob/main/GitImg.PNG)
 
